@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584925547532.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3727039141",
+    "id" : "1A900E8D",
+    "lastKnownWriteTime" : 1584949780,
+    "last_content_update" : 1584949780166,
+    "path" : "C:/IoT/work/RWork/bigdata/crawl_content.R",
+    "project_path" : "crawl_content.R",
+    "properties" : {
+        "cursorPosition" : "11,15",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584666733041.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2110650662",
+    "id" : "136B3EB3",
+    "lastKnownWriteTime" : 1584693987,
+    "last_content_update" : 1584693987455,
+    "path" : "C:/IoT/work/RWork/advanced/encoding_test.R",
+    "project_path" : "encoding_test.R",
+    "properties" : {
+        "cursorPosition" : "6,22",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584683044273.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2002615119",
+    "id" : "729D5ECF",
+    "lastKnownWriteTime" : 1584693988,
+    "last_content_update" : 1584693988035,
+    "path" : "C:/IoT/work/RWork/advanced/exam.R",
+    "project_path" : "exam.R",
+    "properties" : {
+        "cursorPosition" : "11,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

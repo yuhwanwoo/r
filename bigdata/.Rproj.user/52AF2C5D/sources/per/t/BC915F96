@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584776120573.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1407129089",
+    "id" : "BC915F96",
+    "lastKnownWriteTime" : 1584949780,
+    "last_content_update" : 1584949780135,
+    "path" : "C:/IoT/work/RWork/bigdata/crawling_loop_exam.R",
+    "project_path" : "crawling_loop_exam.R",
+    "properties" : {
+        "cursorPosition" : "9,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

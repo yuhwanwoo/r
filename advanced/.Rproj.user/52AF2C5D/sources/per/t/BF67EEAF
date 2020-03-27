@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584669959736.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2702782214",
+    "id" : "BF67EEAF",
+    "lastKnownWriteTime" : 1584693987,
+    "last_content_update" : 1584693987470,
+    "path" : "C:/IoT/work/RWork/advanced/import_data.R",
+    "project_path" : "import_data.R",
+    "properties" : {
+        "cursorPosition" : "28,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
